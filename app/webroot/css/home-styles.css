@@ -1,0 +1,57 @@
+#description {
+	font-size: 24px;
+	color: black;
+}
+
+.categories {
+	width: 100%;
+	margin-top: 5%;
+	background-color: orange;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+td {
+	border-right: 3px solid #ffffff;
+	border-left: none;
+	width: 30%;
+}
+
+h1 {
+	text-align: center;	
+	font-size: 50px;
+	color: #ffffff;
+}
+
+td:last-child {
+	border-right: none;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: lighter;
+	display: inline-block;
+	float: right;
+}
+
+.aspect{
+	
+}
+
+#ease {
+	background-color: darkgreen;
+}
+
+#customize {
+	background-color: darkcyan;
+}
+
+#features {
+	background-color: darkgray;
+}
+
+.more{
+	text-align: left;
+	display: inline-block;
+	float: right;
+}
