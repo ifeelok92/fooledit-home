@@ -1,0 +1,42 @@
+#title {
+	color: green;
+}
+
+#description {
+	font-size: 50%;
+	color: blue;
+	vertical-align: bottom;
+	font-style: italic;
+}
+
+.notice{
+	background-color: gray;
+	color: orange;
+}
+
+#notice{
+	font-size: 200%;
+	text-align: center;
+}
+
+.columns{
+	display: table;
+	width: 100%;
+}
+
+.aspect{
+	display: table-cell;
+	width: 49%;
+	vertical-align;
+}
+
+#development {
+	background-color:skyblue;
+	left: 0;
+}
+
+#friendly {
+	background-color: yellowgreen;
+	right: 0;
+}
+

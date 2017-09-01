@@ -1,11 +1,16 @@
+#title {
+	color: green;
+}
+
 #description {
-	font-size: 24px;
-	color: black;
+	font-size: 50%;
+	color: blue;
+	vertical-align: bottom;
+	font-style: italic;
 }
 
 .categories {
 	width: 100%;
-	margin-top: 5%;
 	background-color: orange;
 	padding-top: 5%;
 	padding-bottom: 5%;
