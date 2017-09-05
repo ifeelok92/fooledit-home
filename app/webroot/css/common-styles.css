@@ -109,15 +109,15 @@ ul{
 	list-style-position: inside;
 }
 
-ul li{
-	list-style-type: disc;
-}
-
 q {
 	display: block;
 	font-style: italic;
 	text-align: center;
 }
+
 .follow{
-	height: 24px;
+	height: 48px;
+	position: absolute;
+	top: 0;
+	right: 0;
 }

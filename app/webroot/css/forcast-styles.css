@@ -12,6 +12,8 @@
 .notice{
 	background-color: gray;
 	color: orange;
+	padding-top: 10%;
+	padding-bottom: 10%;
 }
 
 #notice{
@@ -20,6 +22,7 @@
 }
 
 .columns{
+	font-size: 200%;
 	display: table;
 	width: 100%;
 }
@@ -28,6 +31,15 @@
 	display: table-cell;
 	width: 49%;
 	vertical-align;
+}
+
+ul{
+	list-style-position: inside;
+	list-style-type: none;
+}
+
+ul li::before{
+	content: "☑";
 }
 
 #development {
